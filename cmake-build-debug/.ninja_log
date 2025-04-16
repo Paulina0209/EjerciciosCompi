@@ -1,0 +1,9 @@
+# ninja log v6
+5	504	7665370866970697	build.ninja	911a1a4c293a0640
+37	1182	7665310192468945	CMakeFiles/EjerciciosCompi.dir/src/Ejercicio4.cpp.obj	889e17a35f9097f3
+29	830	7665310192379357	CMakeFiles/EjerciciosCompi.dir/src/main.cpp.obj	82e4cdba733983cc
+1182	1400	7665310203923043	EjerciciosCompi.exe	da57ad7c92371e0f
+42	873	7665372305313671	CMakeFiles/EjerciciosCompi.dir/src/Ejercicio6.cpp.obj	4b5ab2becd246131
+35	910	7665372305236468	CMakeFiles/EjerciciosCompi.dir/src/main.cpp.obj	82e4cdba733983cc
+50	1254	7665372305395180	CMakeFiles/EjerciciosCompi.dir/src/Ejercicio8.cpp.obj	ceb7154d5518a1dc
+1255	1767	7665372317440018	EjerciciosCompi.exe	88cd91356f8461ea
